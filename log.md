@@ -1,5 +1,7 @@
 #50 Days Of Code - Log
 
+Last day is **June 6 2018**.
+
 ### Day 0: April 17, 2018
 
 **Today's Progress**: Completed puzzles on Leetcode. 
